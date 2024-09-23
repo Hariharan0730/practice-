@@ -1,0 +1,23 @@
+
+.big_box{
+    padding-left: 13px;
+    margin: 10px;
+    border: 2px;
+    border-style: dashed;
+}
+div > .green-box2,.green-box {
+    background-color: green;
+    display: inline;
+    margin:10px;
+    border: 2px;
+    padding: 5px;
+    border-style: dashed;
+}
+div > .red-box,.red-box2{
+    background-color: red;
+    display: inline-block;
+    margin: 10px;
+    border: 2px;
+    padding: 7px;
+    border-style: dashed;
+}
